@@ -1,2 +1,2 @@
 # demo-cls
-This is a demo class repository
+This is a demo class repository.
